@@ -1,5 +1,5 @@
 SNAPSHOT ?= $(shell date +%Y%m%d)
-SNAPSHOT_FILE=snapshots/portage-$(SNAPSHOT).tar.bz2
+SNAPSHOT_FILE=snapshots/gentoo-$(SNAPSHOT).tar.bz2
 
 CHOST ?= $(shell gcc -dumpmachine)
 ARCH ?= $(shell sh scripts/getarch.sh $(CHOST))
