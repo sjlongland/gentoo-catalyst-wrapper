@@ -1,3 +1,11 @@
+[Find this project on codeberg](https://codeberg.org/sjlongland/gentoo-catalyst-wrapper)
+
+As a result of Github's decision to force AI-generated issues with no opt-out,
+I am migrating personal projects of mine to Codeberg.  The project at Github
+will be archived.
+
+----
+
 # Gentoo Catalyst build wrapper
 
 Gentoo Catalyst is the release engineering tool used by Gentoo developers to
